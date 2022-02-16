@@ -1,0 +1,6 @@
+Создать базовый класс Animal с полями: private boolean vegetarian; private String eats; private int noOflegs;
+На его основе создать подкласс Cat с полями суперкласса и private String color. Cоздать базовый класс Building.
+На его основе создать подклассы: House,School,Library,Supermarket. Cоздать базовый класс Horse.
+На его основе создать подклассы: Zebra,Donkey,Pegasus. Cоздать базовый класс Food. На его основе создать подклассы:
+Starter,Soup,Salad,MainDish. Cоздать базовый класс FootWear. На его основе создать подклассы:
+Shoes,Trainers,Boots,HighShoes,Sandals,Slippers.
