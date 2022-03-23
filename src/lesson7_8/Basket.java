@@ -1,0 +1,9 @@
+package lesson7_8;
+
+public class Basket {
+    Product[] purchased;
+
+    Basket(Product[] purchased) {
+        this.purchased = purchased;
+    }
+}
